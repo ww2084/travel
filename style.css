@@ -1,0 +1,107 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'NanumBarunGothic', 'serif';
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  position: relative;
+  width: 1200px;
+  height: 151px;
+}
+
+.logo img {
+  width: 150px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.home img {
+  width: 20px;
+}
+
+#nav {
+  position: absolute;
+  right: 0;
+  top: 20px;
+  
+}
+
+#nav > ul > li {
+  float: left;
+  font-size: 16px;
+  text-align: center;
+  color: #444;
+  display: block;
+  padding: 20px;
+}
+
+#main {
+  width: 1200px;
+  height: 389px;
+  background: url(./imges/city-sky-people-bridge-34629.jpg);
+  background-size: 100%;
+}
+
+.text1 {
+  color: #fff;
+  font-size: 35px;
+  padding-left: 80px;
+  padding-top: 80px;
+  
+}
+
+.text1 span {
+  font-size: 70px;
+}
+
+#contnet{
+  width: 1200px;
+  height: 293px;
+  margin-top: 30px;
+  margin-left: 40px;
+
+  
+}
+
+.img{
+  width: 277px;
+  height: 240px;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
+
+
+  #footer {
+    width: 1200px;
+    height: 154px;
+    background: #ccc;
+    
+
+}
+
+.text3 {
+    padding: 60px;
+    text-align: center;
+    font-size: 14px;
+}
+
+
+
+
+
